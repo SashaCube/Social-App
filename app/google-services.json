@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "303015240718",
+    "firebase_url": "https://utopiasocialapp2.firebaseio.com",
+    "project_id": "utopiasocialapp2",
+    "storage_bucket": "utopiasocialapp2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:303015240718:android:684cf3303e8429fa",
+        "android_client_info": {
+          "package_name": "com.pllug.course.oleksandr.havryliuk.utopiasocialapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "303015240718-im78ueed0pcgirk4spfr7sagcbpdi46t.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.pllug.course.oleksandr.havryliuk.utopiasocialapp",
+            "certificate_hash": "d0938d9f44069dcb420c28e1ba6ca223a597468c"
+          }
+        },
+        {
+          "client_id": "303015240718-qlh4cd6g81hv5mdlp3ebkqcrml3mtaf5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBcqwyfnTVRQSV2QvCVYzpAwzHLDS41evk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "303015240718-qlh4cd6g81hv5mdlp3ebkqcrml3mtaf5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

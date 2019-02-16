@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">SocialApp</string>
+    <string name="facebook_app_id">1982757341842858</string>
+    <string name="fb_login_protocol_scheme">fb1982757341842858</string>
+
+    <string name="profile">Profile</string>
+    <string name="posts">Posts</string>
+    <string name="comments">Comments</string>
+    <string name="albums">Albums</string>
+    <string name="images">Images</string>
+    <string name="todos">Todos</string>
+    <string name="sign_out">Sign out</string>
+    <string name="settings">Settings</string>
+</resources>

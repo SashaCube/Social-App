@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <group
+        android:id="@+id/menu_main"
+        android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_profile"
+            android:icon="@drawable/ic_account_circle_black_24dp"
+            android:title="@string/profile" />
+        <item
+            android:id="@+id/nav_posts"
+            android:icon="@drawable/ic_subtitles_black_24dp"
+            android:title="@string/posts" />
+        <item
+            android:id="@+id/nav_comments"
+            android:icon="@drawable/ic_comment_black_24dp"
+            android:title="@string/comments" />
+        <item
+            android:id="@+id/nav_albums"
+            android:icon="@drawable/ic_collections_black_24dp"
+            android:title="@string/albums" />
+        <item
+            android:id="@+id/nav_images"
+            android:icon="@drawable/ic_image_black_24dp"
+            android:title="@string/images" />
+        <item
+            android:icon="@drawable/ic_completed"
+            android:id="@+id/nav_todos"
+            android:title="@string/todos"/>
+    </group>
+
+    <group
+        android:id="@+id/menu_setings"
+        android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_settings"
+            android:icon="@drawable/ic_settings_black_24dp"
+            android:title="@string/settings" />
+        <item
+            android:id="@+id/nav_sign_out"
+            android:icon="@drawable/ic_exit_to_app_black_24dp"
+            android:title="@string/sign_out" />
+    </group>
+</menu>
